@@ -1,0 +1,16 @@
+Links importantes
+
+Documentação Flask
+https://flask.palletsprojects.com/en/2.3.x/
+
+Descrição HTML
+https://developer.mozilla.org/pt-BR/docs/Web/HTML
+
+HTML tags com exemplos (inglês) -> *Melhor opção*
+https://www.w3schools.com/tags/
+
+Descrição das HTML tags (português)
+https://developer.mozilla.org/pt-BR/docs/Web/HTML/Element/a
+
+Repositório GitHub
+https://github.com/RodrigoNoberto/Flask-PMD
